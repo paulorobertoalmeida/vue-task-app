@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Take Pauman to see Memento",
+      "day": "August 12, 2022 at 17:00",
+      "reminder": false
+    },
+    {
+      "id": "2",
+      "text": "Buy Beers for IronParty",
+      "day": "August 12, 2022 at 18:00",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Listen to C.R.E.A.M at the highest volume possible",
+      "day": "August 13, 2022 at 11:00",
+      "reminder": false
+    },
+    {
+      "id": "4",
+      "text": "Invite Albert for a Beer for saving my A$*",
+      "day": "August 13, 2022 at 11:00",
+      "reminder": true
+    },
+    {
+      "text": "Buy tickets to Berlin, lets rave! ",
+      "day": "August 12, 2022 at 23:00",
+      "reminder": true,
+      "id": "eIen2WQ"
+    },
+    {
+      "text": "Buy alcohol! ",
+      "day": "March 5th at 06:00am",
+      "reminder": true,
+      "id": "HQKyYs7"
+    }
+  ]
+}
